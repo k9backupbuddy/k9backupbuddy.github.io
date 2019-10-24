@@ -1,2 +1,2 @@
 # k9backupbuddy.github.io
-Sensors for health safety and structural monitoring
+Exploring the use of health monitoring via sensors
